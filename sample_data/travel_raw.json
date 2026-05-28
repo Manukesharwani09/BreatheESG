@@ -1,0 +1,90 @@
+[
+  {
+    "tripId": "TRIP-8821A",
+    "travelerName": "Jane Doe",
+    "segments": [
+      {
+        "type": "Air",
+        "departure": "JFK",
+        "arrival": "LHR",
+        "class": "Business",
+        "date": "2026-05-10",
+        "cost": 4500.00
+      },
+      {
+        "type": "Hotel",
+        "hotelName": "London Marriott",
+        "city": "London",
+        "country": "GB",
+        "nights": 4,
+        "rooms": 1,
+        "checkInDate": "2026-05-10",
+        "cost": 1200.00
+      },
+      {
+        "type": "Car",
+        "carClass": "SUV",
+        "distance": 120,
+        "distanceUnit": "miles",
+        "date": "2026-05-10",
+        "cost": 300.00
+      }
+    ]
+  },
+  {
+    "tripId": "TRIP-8822B",
+    "travelerName": "Arjun Mehta",
+    "segments": [
+      {
+        "type": "Air",
+        "departure": "FRA",
+        "arrival": "BLR",
+        "class": "Economy",
+        "date": "2026-05-14",
+        "cost": 950.00
+      },
+      {
+        "type": "Hotel",
+        "hotelName": "Taj Bengaluru",
+        "city": "Bengaluru",
+        "country": "IN",
+        "nights": 5,
+        "rooms": 1,
+        "checkInDate": "2026-05-15",
+        "cost": 1500.00
+      },
+      {
+        "type": "Car",
+        "carClass": "Electric",
+        "distance": 80,
+        "distanceUnit": "km",
+        "date": "2026-05-15",
+        "cost": 200.00
+      }
+    ]
+  },
+  {
+    "tripId": "TRIP-8823C",
+    "travelerName": "Sophie Laurent",
+    "segments": [
+      {
+        "type": "Air",
+        "departure": "CDG",
+        "arrival": "FRA",
+        "class": "Economy",
+        "date": "2026-05-18",
+        "cost": 250.00
+      },
+      {
+        "type": "Hotel",
+        "hotelName": "Hyatt Paris",
+        "city": "Paris",
+        "country": "FR",
+        "nights": 2,
+        "rooms": 1,
+        "checkInDate": "2026-05-18",
+        "cost": 600.00
+      }
+    ]
+  }
+]
